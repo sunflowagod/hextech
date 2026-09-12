@@ -21,3 +21,10 @@ MAX_SIZE=720 MAX_FPS=30 BIT_RATE=12000000 python3 scrcpy_stream.py
 
 BOOTUP Emulators
 </code>
+
+
+<img width="1920" height="1156" alt="image" src="https://github.com/user-attachments/assets/ba49366a-3c8c-4bc1-85dc-e3513f04d286" />
+<code>
+
+Full emulators remote control stream
+</code>
